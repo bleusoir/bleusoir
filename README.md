@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @bleusoir
-- 👀 I’m interested in new features
+- 👀 I’m interested in new development trends
 - 🌱 I’m currently learning k8s, typescript, MSA
